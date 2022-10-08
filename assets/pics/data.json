@@ -1,0 +1,15 @@
+[
+    {
+        "disease_name": "burn",
+        "first_aid": "bla bla bla",
+        "symptoms": [
+            "bla bla bla",
+            "bla bla bla"
+        ],
+        "treatment": "bla bla bla",
+        "medicines": [
+            "bla bla bla",
+            "bla bla bla"
+        ]
+    }
+]
